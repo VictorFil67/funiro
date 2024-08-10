@@ -24,7 +24,6 @@ export const ProductSection = () => {
           <ProductName>Product 2</ProductName>
           <ProductPrice>$250</ProductPrice>
         </ProductCard>
-        {/* Добавьте остальные карточки продуктов */}
       </ProductsGrid>
     </SectionWrapper>
   );
