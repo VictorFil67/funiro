@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/funiro/static/css/main.f855e6bc.css",
-    "main.js": "/funiro/static/js/main.d7ef8aca.js",
+    "main.js": "/funiro/static/js/main.14387ba5.js",
     "static/js/453.cb450e02.chunk.js": "/funiro/static/js/453.cb450e02.chunk.js",
+    "static/media/Hero.png": "/funiro/static/media/Hero.27855fbc3bce566efe41.png",
     "index.html": "/funiro/index.html",
     "main.f855e6bc.css.map": "/funiro/static/css/main.f855e6bc.css.map",
-    "main.d7ef8aca.js.map": "/funiro/static/js/main.d7ef8aca.js.map",
+    "main.14387ba5.js.map": "/funiro/static/js/main.14387ba5.js.map",
     "453.cb450e02.chunk.js.map": "/funiro/static/js/453.cb450e02.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.d7ef8aca.js"
+    "static/js/main.14387ba5.js"
   ]
 }
