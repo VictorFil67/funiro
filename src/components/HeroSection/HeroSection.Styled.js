@@ -1,11 +1,12 @@
 import styled from "styled-components";
+import Hero from "../../images/Hero.png";
 
 export const HeroWrapper = styled.section`
   display: flex;
   justify-content: center;
   align-items: center;
   height: 80vh;
-  background: url("/path/to/your/image.jpg") no-repeat center/cover;
+  background: url(${Hero}) no-repeat center/cover;
   text-align: center;
 `;
 

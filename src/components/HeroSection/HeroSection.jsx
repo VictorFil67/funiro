@@ -9,7 +9,7 @@ import {
 
 export const HeroSection = () => {
   return (
-    <HeroWrapper>
+    <HeroWrapper id="about">
       <HeroContent>
         <HeroTitle>Design Your Life</HeroTitle>
         <HeroSubtitle>
